@@ -1,0 +1,4 @@
+raspberry_pi_ssid: sails.sensors
+sensors_connected_to_raspberry_pi:
+  - "water_temperature"
+  - "weather"
