@@ -1,4 +1,7 @@
 raspberry_pi_ssid: sails.sensors
-sensors_connected_to_raspberry_pi:
-  - "water_temperature"
-  - "weather"
+sensors:
+    weather: wired
+    wind: wifi
+    water_temp: wired
+    light_switches: wired
+    boat_speed: wifi
